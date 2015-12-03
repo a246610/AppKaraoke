@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AppKaraoke</string>
+    <string name="edit_search_hint">Tìm kiếm bài hát</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="speech_prompt">Tìm kiếm bài hát bằng giọng nói</string>
+</resources>
